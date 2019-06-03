@@ -1,0 +1,12 @@
+
+
+label {
+	font-weight: bold;
+}
+
+.campo {
+	border: solid 1px #555;
+	border-radius: 5px;
+	padding: 5px;
+}
+
